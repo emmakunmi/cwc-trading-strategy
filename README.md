@@ -1,2 +1,2 @@
-# cwc-trading-strategy
+# OmniBus — Multi-Regime RSI Rotation Ai-trading Strategy
 OmniBus 📉 📈 
