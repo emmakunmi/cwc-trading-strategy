@@ -72,4 +72,4 @@ Pattern confirmation: Yes/No
 Entry price: $
 Stop loss: $ (-19%)
 Take profit: $ (+50-65%)
-Leverage: Xx
+Leverage: 5-10x
