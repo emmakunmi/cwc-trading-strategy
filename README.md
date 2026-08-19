@@ -73,3 +73,6 @@ Entry price: $
 Stop loss: $ (-19%)
 Take profit: $ (+50-65%)
 Leverage: 5-10x
+
+## Submission link
+Welcome to the official OmniBus repository for the CWC AI Trading Skill Challenge.
